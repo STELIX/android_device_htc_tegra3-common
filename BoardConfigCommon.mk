@@ -96,7 +96,7 @@ BOARD_HARDWARE_CLASS := device/htc/tegra3-common/cmhw/
      file_contexts \
      genfs_contexts \
      app.te \
-     bdaddwriter.te \
+     btmacreader.te \
      device.te \
      drmserver.te \
      init_shell.te \
